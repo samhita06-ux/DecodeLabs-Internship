@@ -1,4 +1,4 @@
-# 🤖 Rule-Based AI Chatbot
+s# 🤖 Rule-Based AI Chatbot
 
 ## Project Overview
 This project is a simple rule-based AI chatbot developed using Python as part of the **Decode Labs Artificial Intelligence Internship – Project 1**.
